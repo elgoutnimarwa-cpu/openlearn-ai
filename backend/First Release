@@ -1,0 +1,9 @@
+v0.1.0
+
+Initial release of OpenLearn AI.
+
+Features:
+- FastAPI backend
+- Project structure
+- Documentation
+- Open-source licensing
